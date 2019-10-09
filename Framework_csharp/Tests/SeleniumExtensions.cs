@@ -1,12 +1,10 @@
 ﻿using OpenQA.Selenium;
-using OpenQA.Selenium.Support.PageObjects;
 using OpenQA.Selenium.Interactions;
 using System;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading;
 using OpenQA.Selenium.Support.UI;
-using SeleniumExtras.WaitHelpers;
 
 namespace Framework_csharp.Tests
 {

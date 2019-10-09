@@ -90,6 +90,7 @@
   <ItemGroup>
     <Compile Include="Pages\AbstractPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tests\MultibrowserTest.cs" />
     <Compile Include="Tests\SeleniumExtensions.cs" />
     <Compile Include="Tests\TimeoutScope.cs" />
   </ItemGroup>
