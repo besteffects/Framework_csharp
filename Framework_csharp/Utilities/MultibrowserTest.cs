@@ -11,7 +11,7 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 
-namespace TracktorIoProject.Tests
+namespace Framework_csharp.Utilities
 {
 
     [TestFixture(TypeArgs = new Type[] { typeof(ChromeDriver) })] //Change to FirefoxDriver, IEDriver to run tests in Firefox, IE

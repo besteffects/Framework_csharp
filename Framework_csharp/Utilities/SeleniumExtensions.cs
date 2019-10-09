@@ -6,7 +6,7 @@ using System.Text.RegularExpressions;
 using System.Threading;
 using OpenQA.Selenium.Support.UI;
 
-namespace Framework_csharp.Tests
+namespace Framework_csharp.Utilities
 {
     public static class SeleniumExtensions
     {
